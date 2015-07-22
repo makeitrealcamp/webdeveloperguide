@@ -1,0 +1,17 @@
+# ¿Qué hace un Desarrollador Web?
+
+Un Desarrollador Web se encarga de los aspectos técnicos de un sitio o de una aplicación Web. A diferencia del Diseñador Web, que se encarga de la apariencia visual y la distribución de los elementos, el Desarrollador Web convierte un diseño estático en una aplicación completamente funcional disponible en Internet.
+
+Existen varios roles en el desarrollo Web. Un Desarrollador Web puede suplir uno o varios de estos roles al mismo tiempo:
+
+* Front-end: se encarga de convertir un diseño en código que entiendan los navegadores usando HTML, CSS, y JavaScript.
+
+* Back-end: se encarga de conectar la aplicación con la base de datos y otros servicios externos.
+
+* Operaciones: se encarga de desplegar la aplicación en Internet y brindar soporte a los usuarios.
+
+A los desarrolladores que hacen todos los roles se les conoce como Full Stack Developers. Aunque todavía hay mucha demanda por Full Stack Developers, la tendencia es a la especialización.
+
+Front-end es quizá el rol con más demanda en la actualidad y el que más rápido está evolucionando. Las empresas buscan que sus sitios y aplicaciones reaccionen inmediatamente al usuario, que se actualicen sin necesidad de refrescar la página, que tengan animaciones, que se adapten a diferentes pantallas, etc. Muchas cosas que antes se hacían en el servidor (por el back-end) ahora se hacen en el navegador y son responsabilidad del front-end.
+
+Independientemente de si deseas especializarte en alguno de estos roles, nuestra recomendación es que igual aprendas un poco de todos.

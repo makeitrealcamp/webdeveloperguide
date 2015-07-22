@@ -1,0 +1,17 @@
+# Introducción
+
+El desarrollo Web es uno de los campos más emocionantes de la actualidad. No existe una sola industria que no haya sido o no esté siendo transformada por Internet. Servicios como Netflix y iTunes han reemplazado a gigantes como Blockbuster y Tower Records. Amazon no solo es la tienda en línea más grande del mundo, ha cambiado completamente la forma en que compramos con su sistema de rating y comentarios. Las agencias de viajes físicas han prácticamente desaparecido. Las empresas están migrando a sistemas en "la nube" con modelos basados en subscripción.
+
+Es una revolución sin precedente, pero este es solo el comienzo. Sectores como la educación, la política y la salud, entre muchos otros hasta ahora están empezando a ser transformados. En los próximos años seremos testigos de cambios sin precedentes, cambios de los que tu puedes ser parte también.
+
+Cualquier persona que pueda usar un computador se puede convertir en Desarrollador Web. A diferencia de lo que muchos creen no necesitas ser bueno en matemáticas ni tener un cerebro especial. Necesitas ser perseverante, optimista y determinado(a).
+
+Esta guía te va a mostrar cómo convertirte en Desarrollador Web: la mentalidad que necesitas cultivar, las tecnologías que debes aprender, por dónde empezar y cómo encontrar tu primer empleo.
+
+Si tienes alguna pregunta o comentario de esta guía no dudes en escribirme a german.escobar@makeitreal.camp. Intentaré responderte lo antes posible.
+
+Un cordial saludo,
+
+
+     Germán Escobar
+     makeitreal.camp
