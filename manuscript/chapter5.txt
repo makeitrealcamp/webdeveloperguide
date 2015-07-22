@@ -1,10 +1,10 @@
-# ¿Cómo conseguir un empleo como Desarrollador Web?
+# ¿Cómo consigo un empleo como Desarrollador Web?
 
-Excelente, pensamos que nunca ibas a preguntar ;)
+Pensamos que nunca ibas a preguntar ;)
 
 Existe una oportunidad enorme para los Desarrolladores Web, y en general para los programadores. La demanda sigue aumentando al igual que los salarios. Muchos trabajan remotamente, con gran flexibilidad horaria. Pero encontrar un buen empleo no es tan fácil como muchos piensan.
 
-Los empleadores tienden a dividir a los Desarrolladores Web en dos: Junior y Senior. ¿Qué diferencia a uno del otro? Definitivamente no es un título ni un certificado. No hay una línea clara que los divida pero, para que te des una idea, un Desarrollador Web Junior necesita invertir mínimo entre 800 y 1200 horas de aprendizaje para conseguir un empleo. Por otro lado, un Desarrollador Web Senior ha programado durante al menos 5 años (~40 horas/semana) y es capaz de liderar un grupo de desarrollo.
+Los empleadores tienden a dividir a los Desarrolladores Web en dos: Junior y Senior. ¿Qué diferencia a uno del otro? Definitivamente no es un título ni un certificado. No hay una línea clara que los divida pero, para que te des una idea, un Desarrollador Web Junior necesita invertir mínimo entre 800 y 1,200 horas de aprendizaje para conseguir un empleo. Por otro lado, un Desarrollador Web Senior ha programado durante al menos 5 años tiempo completo (~10,000 horas) y es capaz de liderar un grupo de desarrollo.
 
 En Estados Unidos un Desarrollador Web Junior puede empezar ganando entre $4,000 a $6,000 dólares al mes, pero en Latinoamérica ese rango es mucho más bajo: entre $800 y $2,000 dólares. Sería ideal encontrar empleo remoto como Desarrollador Web Junior en Estados Unidos pero no es fácil.
 
@@ -12,12 +12,12 @@ Para los Desarrolladores Web Senior el panorama es muy distinto. En Estados Unid
 
 Como te puedes dar cuenta, la oportunidad es especialmente interesante para los Desarrolladores Senior, más que para los Junior. Si conoces a alguien que trabaje remotamente con un buen salario es muy probable que sea un programador Senior.
 
-Sin embargo, encontrar un empleo como Desarrollador Web Junior es relativamente fácil si tienes un verdadero interés por la programación y te gusta enfrentarte a nuevos retos. Nuestro consejo es que pienses muy bien en tus razones y motivaciones, especialmente si estás pensando en cambiar de carrera. ¿Realmente te interesa la programación o te interesa más la oportunidad?
+Sin embargo, encontrar un empleo como Desarrollador Web Junior es relativamente fácil si tienes un verdadero interés por la programación y te gusta enfrentarte a nuevos retos. Nuestro consejo es que pienses muy bien en tus razones y motivaciones, especialmente si estás pensando en cambiar de carrera. ¿Realmente te interesa la programación o te interesa más la oportunidad para ?
 
-Si crees que la programación es lo que te interesa y quieres convertirte en Desarrollador Web, el siguiente paso para encontrar un empleo es olvidar el empleo y concentrarte en maximizar tu aprendizaje:
+Si crees que tu principal motivación es la programación y quieres convertirte en Desarrollador Web, el siguiente paso para encontrar un empleo es: olvidar el empleo y concentrarte en maximizar tu aprendizaje. 
 
-* Busca nuevos retos en los cuales trabajar (así no te paguen). Construye versiones simplificadas de tus aplicaciones Web favoritas o intenta resolver problemas en http://hackerrank.com/.
-* Busca inspiración (en videos, blogs, etc.).
+* Busca nuevos retos para trabajar (así no te paguen). Construye versiones simplificadas de tus aplicaciones Web favoritas o intenta resolver problemas en [HackerRank](http://hackerrank.com/) por ejemplo.
+* Busca inspiración en videos, blogs, etc.
 * Asiste a las reuniones de programadores (Meetups) y a hackathons. También a Startup Weekends.
 * Aprende sobre nuevos lenguajes y tecnologías.
 * Fortalece los fundamentos de la programación: algoritmos, estructuras de datos, sistemas operativos, compiladores, etc.

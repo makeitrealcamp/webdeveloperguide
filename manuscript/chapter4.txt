@@ -22,31 +22,63 @@ Por último, es importante que sepas las opciones que existen para desplegar tus
 
 ¿Mucha información? Profundicemos un poco más en cada una de estas tecnologías y el rol que desempeñan en la creación de aplicaciones Web.
 
-### HTML y CSS
+## HTML y CSS
 
-HTML y CSS son quizá las tecnologías más básicas que necesitas aprender como Web Developer. HTML (Hyper Text Markup Language) nos permite definir la estructura de una página Web y CSS (Cascading Style Sheets) se usa para aplicarle el estilo (color de fondo, márgenes entre los elementos, tamaño de las fuentes, bordes, etc.).
+HTML y CSS son quizá las tecnologías más básicas que necesitas aprender como Web Developer. Con HTML (Hyper Text Markup Language) puedes definir la estructura de una página Web y con CSS (Cascading Style Sheets) puedes aplicarle estilo (color de fondo, márgenes entre los elementos, tamaño de las fuentes, bordes, etc.).
 
-### Un lenguaje de programación
+Hay muchas formas de hacer lo mismo con HTML y CSS, y la estrategia de muchos es "hacerlo funcionar". Es una buena estrategia. Pero si quieres especializarte en fron-end concéntrate en aprender CSS muy bien.
+
+Adicionalmente deberás aprender sobre un framework de HTML y CSS como [Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/) o [Semantic UI](http://semantic-ui.com/). Si no sabes cuál escoger empieza por [Bootstrap](http://getbootstrap.com/) que es por mucho el más popular.
+
+¿Qué te ofrece un framework HTML y CSS? Primero, estilos base para los elementos básicos de HTML como tipografía, tablas, formularios, imágenes, etc. Segundo, una grilla para que puedas organizar los elementos en la página más fácilmente y que se adapten al tamaño de la pantalla. Por último, un catalogo de componentes que la mayoría de sitios necesitan como barras de navegación, pestañas, mensajes de alertas, modales, barras de progreso, entre muchos otros componentes.
+
+## Un lenguaje de programación
 
 Aprender un lenguaje de programación no es como aprender HTML y CSS. Esta es la parte en que más personas se frustran porque lo más difícil no es aprender la sintaxis (las reglas) del lenguaje, lo difícil es aprender la lógica del programador, es decir, cómo usar el lenguaje para solucionar problemas.
 
-En general es mejor aprender dos o tres lenguajes de programación para poder comparar. Pero si solo deseas aprender un lenguaje, mi recomendación sería JavaScript. JavaScript es el único lenguaje de programación que entienden actualmente los navegadores. También lo han adaptado para el back-end con una plataforma llamada Node.js.
+Veamos algunos lenguajes con sus fortalezas y debilidades.
 
-Otras buenas opciones para empezar son Ruby y Python. Una opción que no recomendamos mucho es PHP. PHP fue uno de los primeros lenguajes enfocados a la Web. No es un buen lenguaje de programación pero aún existen muchas aplicaciones sobre PHP. Wordpress, que es el CMS (Sistema de Administración de Contenidos) más popular de la actualidad está hecho sobre PHP y MySQL. Facebook, una de las aplicaciones más usadas de la actualidad también está hecha con PHP.
+### JavaScript
 
-### La línea de comandos
+La ventaja de JavaScript es que está en todo lado. JavaScript es el único lenguaje de programación que entienden actualmente los navegadores, así que muchas veces no hay opción. También lo han adaptado para el back-end con una plataforma llamada Node.js que funciona muy bien para cierto tipo de aplicaciones (chats, streaming de video, etc.). Y aunque es posible crear aplicaciones Web con Node.js, no es muy recomendable.
 
-La línea de comandos es un aplicación que nos permite escribir y ejecutar comandos sobre el sistema operativo sin necesidad de usar el mouse. Los programadores la siguen usando porque permite automatizar tareas rápidamente sin necesidad de crear interfaces gráficas. También es la forma de interactuar con servidores remotos. Y muchas de las aplicaciones que usan los Desarrolladores Web son aplicaciones para la línea de comandos.
+La desventaja de JavaScript es que no es muy buen lenguaje, la sintaxis es compleja, y en general, es un lenguaje complicado. Hoy en día están intentando arreglarlo pero el problema es que deben seguir soportando todas las características antiguas del lenguaje porque la mayoría de páginas Web usan JavaScript.
+
+### Ruby y Python
+
+La sintaxis de estos dos lenguajes es muy parecida. Es clara y muy amigable para el principiante. Son lenguajes pensados en la productividad del programador, más que en el rendimiento.
+
+Ruby es hoy muy popular para construir aplicaciones Web. Twitter, Groupon, Shopify, Stripe y la mayoría de startups hoy en día usan Ruby. Python se usa mucho para análisis de datos e inteligencia artificial, aunque también es posible crear aplicaciones Web con Python.
+
+La desventaja de estos lenguajes es que son relativamente lentos y la configuración en Windows no es fácil.
+
+### PHP
+
+PHP fue uno de los primeros lenguajes enfocados a la Web y aún existen muchas aplicaciones sobre este lenguaje. Wordpress, que es el CMS (Sistema de Administración de Contenidos) más popular de la actualidad está hecho sobre PHP. Facebook, una de las aplicaciones más usadas actualmente también está hecha con PHP.
+
+La desventaja de PHP es que no es un buen lenguaje de programación y muchos empleos de PHP son para mantener sitios muy antiguos.
+
+### Java y C#
+
+Estos son lenguajes muy populares a nivel empresarial. También son los lenguajes que hoy siguen enseñando las universidades. La ventaja es que, a diferencia de Ruby y Python, son lenguajes con un muy buen rendimiento.
+
+La desventaja es que no están pensados en la productividad del programador. Son lenguajes con grandes compañías (Oracle y Microsoft respectivamente) detrás que esperan lucrarse de alguna forma u otra del lenguaje (generalmente cobrándoles a grandes empresas por soluciones sobre dimensionadas que no necesitan). Los empleos en estos lenguajes son, generalmente, en grandes empresas que ven la tecnología más como una amenaza que como una oportunidad.
+
+En todos estos lenguajes vas a encontrar trabajo. Para Java y C# es posible que te pidan títulos o certificados por el tipo de empresas que contratan para estos lenguajes. Pero en general, vas a notar que las empresas valoran más lo que has creado y si verdaderamente tienes un interés por la programación o no.
+
+## La línea de comandos
+
+La línea de comandos es un aplicación que nos permite escribir y ejecutar comandos sobre el sistema operativo sin necesidad de usar el mouse. Los programadores la siguen usando porque permite automatizar tareas rápidamente sin necesidad de crear interfaces gráficas. También es la forma de interactuar con servidores remotos. Muchas de las aplicaciones que usan los Desarrolladores Web son aplicaciones para la línea de comandos.
 
 ### Un editor de texto
 
 Para crear tus aplicaciones Web vas a necesitar un editor de texto en donde escribir el código. Los editores de texto más básicos son Bloc de Notas en Windows y TextEdit en Mac. Pero el problema de estos editores de texto es que no están diseñados para los programadores.
 
-Un editor de texto para programadores debe tener al menos las siguientes dos características básicas: debe resaltar el código y debe auto completar el código a medida que lo escribas.
+Un editor de texto para programadores debe tener al menos las siguientes dos características básicas: debe resaltar el código con colores (recuerda que el código es texto plano sin formato) y debe auto completar el código a medida que lo escribas.
 
 Aunque existen muchos editores de texto en el mercado, el más popular ahora entre los programadores es Sublime Text, que se puede descargar y usar gratuitamente, aunque cada cierto tiempo te va a pedir que lo compres.
 
-Otras opciones incluyen Atom, TextMate, Brackets y Notepad++. También existen ahora editores en la Web como https://koding.com/, https://c9.io/ y https://nitrous.io/.
+Otras opciones incluyen Atom, TextMate, Brackets y Notepad++. También existen ahora editores en la Web como [Koding](https://koding.com/), [Cloud9](https://c9.io/) y [Nitrous](https://nitrous.io/).
 
 ### Un sistema de control de versiones
 
@@ -61,9 +93,9 @@ Si no lo has hecho, ve y crea una cuenta en Github. Github es la red social de l
 
 ### El protocolo HTTP
 
-Como Desarrollador Web, la tecnología más importante que necesitas aprender es HTTP (Hyper Text Transfer Protocol). Cada vez que entras a algún sitio Web (p.e. Google o Facebook), tu navegador está intercambiando mensajes según unas reglas establecidas por HTTP.  
+Cada vez que entras a algún sitio Web (p.e. Google o Facebook), tu navegador está intercambiando mensajes según unas reglas establecidas por HTTP (Hyper Text Transfer Protocol).
 
-Técnicamente no necesitas aprender sobre el protocolo HTTP, pero es muy recomendable porque vas a entender mejor cómo funcionan las aplicaciones Web y te vas a poder adaptar mucho más fácil a cualquier framework Web. Además, aprender sobre el protocolo HTTP te va a preparar para entender Web API's más adelante, que es un mecanismo para conectar aplicaciones de forma automática.
+Muchas personas prefieren aprender primero un framework Web antes de HTTP, pero nuestra experiencia nos dice que aprender HTTP primero es mucho más valioso porque te va a permitir adaptarte a cualquier framework Web. Además, aprender sobre el protocolo HTTP te va a preparar para entender Web API's más adelante, que es un mecanismo para conectar aplicaciones de forma automática.
 
 ### Un framework Web
 
@@ -73,12 +105,14 @@ Un framework Web se puede hacer usando cualquier lenguaje de programación. Exis
 
 Si entiendes bien el protocolo HTTP, aprender cualquiera de estos frameworks es mucho más fácil.
 
-### Al menos una librería de JavaScript para el navegador
+// Falta hablar de las opciones con mayor profundidad.
 
-jQuery es la más fácil y popular. Pero las librerías de JavaScript cada vez se vuelven más complejas por la razón que mencionábamos anteriormente: al navegador se le están dando más responsabilidades que antes se hacían en el servidor.
+### jQuery
+
+jQuery es una librería escrita en JavaScript para manipular HTML, escuchar eventos (clicks, movimientos del mouse, teclas, etc.) y hacer llamados AJAX a servidores remotos.
 
 ### Bases de Datos
 
-Algunos llaman a las aplicaciones Web “Bases de Datos con piel”. Y es que en la mayoría de casos la aplicación Web sirve como intermediario entre el usuario y una base de datos. 
+
 
 ### Despliegue de aplicaciones
