@@ -1,6 +1,6 @@
 # ¿Qué necesito aprender para convertirme en Desarrollador Web?
 
-Para empezar, te debe gustar la tecnología. Debes manejar bien un computador y conocer sus partes básicas (procesador, memoria RAM, disco duro, etc). Debes saber a grandes rasgos qué es al menos un dominio, una IP, un hosting, un sistema operativo y una base de datos.
+Para empezar, te debe gustar la tecnología. Debes manejar bien un computador y conocer sus partes básicas (procesador, memoria RAM, disco duro, etc). Debes entender a grandes rasgos qué es un dominio, una IP, un hosting, un sistema operativo y una base de datos, entre otros conceptos relacionados.
 
 Necesitas entender algo de Inglés. Puede ser muy básico, pero entre mejor tu Inglés, mejores oportunidades vas a encontrar.
 

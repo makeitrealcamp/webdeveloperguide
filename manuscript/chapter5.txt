@@ -4,29 +4,22 @@ Excelente, pensamos que nunca ibas a preguntar ;)
 
 Existe una oportunidad enorme para los Desarrolladores Web, y en general para los programadores. La demanda sigue aumentando al igual que los salarios. Muchos trabajan remotamente, con gran flexibilidad horaria. Pero encontrar un buen empleo no es tan fácil como muchos piensan.
 
-Los empleadores tienden a dividir a los Desarrolladores Web en dos: Junior y Senior. ¿Qué diferencia a uno del otro? No hay una línea clara que los divida pero, para que te des una idea, un Desarrollador Web Junior necesita invertir mínimo entre 800 y 1200 horas de aprendizaje para conseguir un empleo. Por otro lado, un Desarrollador Web Senior ha programado durante al menos 5 años (~40 horas/semana) y es capaz de liderar un grupo de desarrollo.
+Los empleadores tienden a dividir a los Desarrolladores Web en dos: Junior y Senior. ¿Qué diferencia a uno del otro? Definitivamente no es un título ni un certificado. No hay una línea clara que los divida pero, para que te des una idea, un Desarrollador Web Junior necesita invertir mínimo entre 800 y 1200 horas de aprendizaje para conseguir un empleo. Por otro lado, un Desarrollador Web Senior ha programado durante al menos 5 años (~40 horas/semana) y es capaz de liderar un grupo de desarrollo.
 
 En Estados Unidos un Desarrollador Web Junior puede empezar ganando entre $4,000 a $6,000 dólares al mes, pero en Latinoamérica ese rango es mucho más bajo: entre $800 y $2,000 dólares. Sería ideal encontrar empleo remoto como Desarrollador Web Junior en Estados Unidos pero no es fácil.
 
-Para los Desarrolladores Web Senior el panorama es muy distinto. En Estados Unidos un Desarrollador Senior puede ganar entre $6,000 y $12,000 dólares al mes. En Latinoamérica el rango es mucho más bajo pero igual interesante: entre $2,000 y $6,000 dólares. La ventaja es que un Desarrollador Senior con un nivel de Inglés intermedio (que al menos se defienda hablando) puede encontrar un empleo remoto en Estados Unidos con relativa facilidad.
+Para los Desarrolladores Web Senior el panorama es muy distinto. En Estados Unidos un Desarrollador Senior puede ganar entre $6,000 y $12,000 dólares al mes. En Latinoamérica el rango es mucho más bajo pero igual interesante: entre $2,000 y $6,000 dólares. La ventaja es que un Desarrollador Senior con un nivel de Inglés intermedio puede encontrar un empleo remoto en Estados Unidos con relativa facilidad.
 
 Como te puedes dar cuenta, la oportunidad es especialmente interesante para los Desarrolladores Senior, más que para los Junior. Si conoces a alguien que trabaje remotamente con un buen salario es muy probable que sea un programador Senior.
 
-Es muy común escuchar en las noticias que existe un déficit de programadores. Pero al mismo tiempo muchos Ingenieros de Sistemas se quejan porque no pueden encontrar un empleo. Lo que las noticias no dicen es que el déficit no es solo de programadores, es de programadores con un verdadero interés por la programación. Y eso es completamente diferente.
+Sin embargo, encontrar un empleo como Desarrollador Web Junior es relativamente fácil si tienes un verdadero interés por la programación y te gusta enfrentarte a nuevos retos. Nuestro consejo es que pienses muy bien en tus razones y motivaciones, especialmente si estás pensando en cambiar de carrera. ¿Realmente te interesa la programación o te interesa más la oportunidad?
 
-Encontrar un empleo como Desarrollador Web es relativamente fácil si tienes un verdadero interés por la programación y te gusta enfrentarte a nuevos retos. Por eso, antes de pensar en conseguir un empleo como Desarrollador Web, nuestro consejo es que pienses muy bien en tus razones y motivaciones, especialmente si estás pensando en cambiar de carrera. ¿Realmente te interesa la programación o te interesa más la oportunidad? 
+Si crees que la programación es lo que te interesa y quieres convertirte en Desarrollador Web, el siguiente paso para encontrar un empleo es olvidar el empleo y concentrarte en maximizar tu aprendizaje:
 
-Es muy probable que en este momento te estés preguntando ¿qué hacen diferente las personas con un verdadero interés por la programación? La respuesta es que muchas cosas. Las personas con un verdadero interés por la programación:
-
-* Están trabajando en proyectos propios así tengan un empleo de tiempo completo.
-* Buscan inspiración (en videos, blogs, etc.).
-* Buscan nuevos retos en los cuales trabajar (así no les paguen).
-* Algunos asisten a las reuniones de programadores (Meetups) y a hackathons.
-* Están constantemente aprendiendo nuevos lenguajes y tecnologías.
-* Se fortalecen en los fundamentos de la programación: algoritmos, estructuras de datos, sistemas operativos, compiladores, etc.
-* Algunos escriben y comparten lo que saben (esto es quizá lo que separa a los buenos de los mejores).
-* Leen libros de programación.
-
-
-
-
+* Busca nuevos retos en los cuales trabajar (así no te paguen). Construye versiones simplificadas de tus aplicaciones Web favoritas o intenta resolver problemas en http://hackerrank.com/.
+* Busca inspiración (en videos, blogs, etc.).
+* Asiste a las reuniones de programadores (Meetups) y a hackathons. También a Startup Weekends.
+* Aprende sobre nuevos lenguajes y tecnologías.
+* Fortalece los fundamentos de la programación: algoritmos, estructuras de datos, sistemas operativos, compiladores, etc.
+* Escribe y comparte lo que estás aprendiendo (esto es quizá lo que separa a los buenos de los mejores).
+* Lee libros de programación.
