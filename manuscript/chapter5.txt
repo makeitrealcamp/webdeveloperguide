@@ -1,8 +1,6 @@
 # ¿Cómo consigo un empleo como Desarrollador Web?
 
-Pensamos que nunca ibas a preguntar ;)
-
-Existe una oportunidad enorme para los Desarrolladores Web, y en general para los programadores. La demanda sigue aumentando al igual que los salarios. Muchos trabajan remotamente, con gran flexibilidad horaria. Pero encontrar un buen empleo no es tan fácil como muchos piensan.
+Es cierto que existe una oportunidad enorme para los Desarrolladores Web, y en general para los programadores. La demanda sigue aumentando al igual que los salarios. Muchos trabajan remotamente, con gran flexibilidad horaria. Pero encontrar un buen empleo no es tan fácil como muchos piensan.
 
 Los empleadores tienden a dividir a los Desarrolladores Web en dos: Junior y Senior. ¿Qué diferencia a uno del otro? Definitivamente no es un título ni un certificado. No hay una línea clara que los divida pero, para que te des una idea, un Desarrollador Web Junior necesita invertir mínimo entre 800 y 1,200 horas de aprendizaje para conseguir un empleo. Por otro lado, un Desarrollador Web Senior ha programado durante al menos 5 años tiempo completo (~10,000 horas) y es capaz de liderar un grupo de desarrollo.
 

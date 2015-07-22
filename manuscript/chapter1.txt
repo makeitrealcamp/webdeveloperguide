@@ -2,7 +2,7 @@
 
 El desarrollo Web es uno de los campos más emocionantes de la actualidad. No existe una sola industria que no haya sido o no esté siendo transformada por Internet. Servicios como Netflix y iTunes han reemplazado a gigantes como Blockbuster y Tower Records. Amazon ha cambiado completamente la forma en que compramos. Uber y AirBnB están cambiando la forma en que nos transportamos y nos alojamos. Las empresas están migrando a sistemas en "la nube" con modelos basados en subscripción. Las agencias de viajes físicas han prácticamente desaparecido.
 
-Es una revolución sin precedente, pero este es solo el comienzo. Sectores como la educación, la política y la salud, entre muchos otros hasta ahora están empezando a ser transformados. En los próximos años seremos testigos de cambios sin precedentes, cambios de los que tu puedes ser parte también.
+Es una revolución sin precedente, pero este es solo el comienzo. Sectores como la educación, la política y la salud, entre muchos otros hasta ahora están empezando a ser transformados. En los próximos años seremos testigos de enormes cambios, cambios de los que tu puedes ser parte también.
 
 Cualquier persona que pueda usar un computador se puede convertir en Desarrollador Web. A diferencia de lo que muchos creen no necesitas ser bueno en matemáticas ni tener un cerebro especial. Tampoco necesitas un título ni un certíficado. Necesitas ser perseverante, optimista y determinado(a).
 
@@ -14,4 +14,5 @@ Un cordial saludo,
 
 
 Germán Escobar
+
 makeitreal.camp

@@ -4,7 +4,7 @@ Para empezar, te debe gustar la tecnología. Debes manejar bien un computador y 
 
 Necesitas entender algo de Inglés. Puede ser muy básico, pero entre mejor tu Inglés, mejores oportunidades vas a encontrar.
 
-Hagamos un recorrido muy rápido por las tecnologías que debes aprender. No te preocupes si no es muy claro, después profundizaremos en cada una de ellas.
+Hagamos un recorrido muy rápido por las tecnologías que debes aprender. No te preocupes si no son muy claras, después profundizaremos en cada una de ellas.
 
 Lo mínimo que debes aprender es HTML y CSS, que son los lenguajes con los que se crean las páginas Web. Para escribir el código necesitas utilizar un editor de texto. Te recomendamos descargar uno diseñado para programadores como Sublime Text en vez del que viene por defecto con tu sistema operativo.
 
@@ -30,7 +30,7 @@ Hay muchas formas de hacer lo mismo con HTML y CSS, y la estrategia de muchos es
 
 Adicionalmente deberás aprender sobre un framework de HTML y CSS como [Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/) o [Semantic UI](http://semantic-ui.com/). Si no sabes cuál escoger empieza por [Bootstrap](http://getbootstrap.com/) que es por mucho el más popular.
 
-¿Qué te ofrece un framework HTML y CSS? Primero, estilos base para los elementos básicos de HTML como tipografía, tablas, formularios, imágenes, etc. Segundo, una grilla para que puedas organizar los elementos en la página más fácilmente y que se adapten al tamaño de la pantalla. Por último, un catalogo de componentes que la mayoría de sitios necesitan como barras de navegación, pestañas, mensajes de alertas, modales, barras de progreso, entre muchos otros componentes.
+¿Qué te ofrece un framework HTML y CSS como Bootstrap? Primero, estilos básicos para los elementos de HTML como tipografía, tablas, formularios, imágenes, etc. Segundo, una grilla para que puedas organizar los elementos en la página más fácilmente y que se adapten al tamaño de la pantalla. Por último, un catalogo de componentes que la mayoría de sitios necesitan como barras de navegación, pestañas, mensajes de alertas, modales, barras de progreso, entre muchos otros componentes.
 
 ## Un lenguaje de programación
 
@@ -58,19 +58,19 @@ PHP fue uno de los primeros lenguajes enfocados a la Web y aún existen muchas a
 
 La desventaja de PHP es que no es un buen lenguaje de programación y muchos empleos de PHP son para mantener sitios muy antiguos.
 
-### Java y C#
+### Java y C-Sharp
 
 Estos son lenguajes muy populares a nivel empresarial. También son los lenguajes que hoy siguen enseñando las universidades. La ventaja es que, a diferencia de Ruby y Python, son lenguajes con un muy buen rendimiento.
 
 La desventaja es que no están pensados en la productividad del programador. Son lenguajes con grandes compañías (Oracle y Microsoft respectivamente) detrás que esperan lucrarse de alguna forma u otra del lenguaje (generalmente cobrándoles a grandes empresas por soluciones sobre dimensionadas que no necesitan). Los empleos en estos lenguajes son, generalmente, en grandes empresas que ven la tecnología más como una amenaza que como una oportunidad.
 
-En todos estos lenguajes vas a encontrar trabajo. Para Java y C# es posible que te pidan títulos o certificados por el tipo de empresas que contratan para estos lenguajes. Pero en general, vas a notar que las empresas valoran más lo que has creado y si verdaderamente tienes un interés por la programación o no.
+En todos estos lenguajes vas a encontrar trabajo. Para Java y C-Sharp es posible que te pidan títulos o certificados por el tipo de empresas que contratan para estos lenguajes. Pero en general, vas a notar que las empresas valoran más lo que has creado y si verdaderamente tienes un interés por la programación o no.
 
 ## La línea de comandos
 
 La línea de comandos es un aplicación que nos permite escribir y ejecutar comandos sobre el sistema operativo sin necesidad de usar el mouse. Los programadores la siguen usando porque permite automatizar tareas rápidamente sin necesidad de crear interfaces gráficas. También es la forma de interactuar con servidores remotos. Muchas de las aplicaciones que usan los Desarrolladores Web son aplicaciones para la línea de comandos.
 
-### Un editor de texto
+## Un editor de texto
 
 Para crear tus aplicaciones Web vas a necesitar un editor de texto en donde escribir el código. Los editores de texto más básicos son Bloc de Notas en Windows y TextEdit en Mac. Pero el problema de estos editores de texto es que no están diseñados para los programadores.
 
@@ -80,7 +80,7 @@ Aunque existen muchos editores de texto en el mercado, el más popular ahora ent
 
 Otras opciones incluyen Atom, TextMate, Brackets y Notepad++. También existen ahora editores en la Web como [Koding](https://koding.com/), [Cloud9](https://c9.io/) y [Nitrous](https://nitrous.io/).
 
-### Un sistema de control de versiones
+## Un sistema de control de versiones
 
 Un sistema de control de versiones tiene dos objetivos principales:
 
@@ -91,13 +91,13 @@ El sistema de control de versiones más popular actualmente es Git. Git fue dise
 
 Si no lo has hecho, ve y crea una cuenta en Github. Github es la red social de los programadores. Ahí puedes ver el código de varios proyectos Open Source, colaborar en esos proyectos o publicar tus propios proyectos.
 
-### El protocolo HTTP
+## El protocolo HTTP
 
 Cada vez que entras a algún sitio Web (p.e. Google o Facebook), tu navegador está intercambiando mensajes según unas reglas establecidas por HTTP (Hyper Text Transfer Protocol).
 
 Muchas personas prefieren aprender primero un framework Web antes de HTTP, pero nuestra experiencia nos dice que aprender HTTP primero es mucho más valioso porque te va a permitir adaptarte a cualquier framework Web. Además, aprender sobre el protocolo HTTP te va a preparar para entender Web API's más adelante, que es un mecanismo para conectar aplicaciones de forma automática.
 
-### Un framework Web
+## Un framework Web
 
 Escribir una aplicación Web manipulando directamente el protocolo HTTP es muy engorroso. Es por eso que se han creado librerías y frameworks que facilitan la creación de aplicaciones Web. Igual es importante entender el protocolo HTTP, pero estas librerías y frameworks nos facilitan la vida.
 
@@ -107,12 +107,12 @@ Si entiendes bien el protocolo HTTP, aprender cualquiera de estos frameworks es 
 
 // Falta hablar de las opciones con mayor profundidad.
 
-### jQuery
+## jQuery
 
 jQuery es una librería escrita en JavaScript para manipular HTML, escuchar eventos (clicks, movimientos del mouse, teclas, etc.) y hacer llamados AJAX a servidores remotos.
 
-### Bases de Datos
+## Bases de Datos
 
 
 
-### Despliegue de aplicaciones
+## Despliegue de aplicaciones
