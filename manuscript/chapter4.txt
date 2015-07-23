@@ -34,10 +34,10 @@ Adicionalmente deberás aprender sobre un framework de HTML y CSS como [Bootstra
 
 Para empezar a aprender HTML, CSS y Bootstrap te recomendamos los siguientes recursos:
 
-* http://blog.makeitreal.camp/2015/03/10/html-css/
-* https://www.codecademy.com/tracks/web
-* http://getbootstrap.com/
-* http://www.w3schools.com/
+* <http://blog.makeitreal.camp/2015/03/10/html-css/>
+* <https://www.codecademy.com/tracks/web>
+* <http://getbootstrap.com/>
+* <http://www.w3schools.com/>
 
 ## Un lenguaje de programación
 
@@ -45,8 +45,8 @@ Aprender un lenguaje de programación no es como aprender HTML y CSS. Esta es la
 
 Si este es tu primer acercamiento con la programación te recomendamos los siguientes recursos para que empieces a desarrollar la lógica de programación:
 
-* http://code.org/
-* https://scratch.mit.edu/
+* <http://code.org/>
+* <https://scratch.mit.edu/>
 
 Veamos ahora algunos lenguajes con sus fortalezas y debilidades.
 
@@ -58,8 +58,8 @@ La desventaja de JavaScript es que no es muy buen lenguaje, la sintaxis es compl
 
 Para empezar con JavaScript te recomendamos los siguientes recursos:
 
-* https://www.javascript.com/
-* https://www.codecademy.com/tracks/javascript
+* <https://www.javascript.com/>
+* <https://www.codecademy.com/tracks/javascript>
 
 ### Ruby y Python
 
@@ -71,14 +71,14 @@ La desventaja de estos lenguajes es que son relativamente lentos y en Windows no
 
 Para empezar con Ruby te recomendamos los siguientes recursos:
 
-* https://pine.fm/LearnToProgram/
-* https://www.codecademy.com/tracks/ruby
-* http://blog.makeitreal.camp/2015/02/23/programacion-orientada-por-objetos-ruby/
+* <https://pine.fm/LearnToProgram/>
+* <https://www.codecademy.com/tracks/ruby>
+* <http://blog.makeitreal.camp/2015/02/23/programacion-orientada-por-objetos-ruby/>
 
 Para empezar con Python te recomendamos el siguiente recurso:
 
-* http://www.learnpython.org/
-* https://www.codecademy.com/tracks/python
+* <http://www.learnpython.org/>
+* <https://www.codecademy.com/tracks/python>
 
 ### PHP
 
@@ -100,8 +100,8 @@ La línea de comandos es un aplicación que nos permite escribir y ejecutar coma
 
 Para aprender más sobre la línea de comandos te recomendamos los siguientes recursos:
 
-* http://blog.makeitreal.camp/2015/04/07/la-linea-de-comandos/
-* https://www.codecademy.com/courses/learn-the-command-line
+* <http://blog.makeitreal.camp/2015/04/07/la-linea-de-comandos/>
+* <https://www.codecademy.com/courses/learn-the-command-line>
 
 ## Un editor de texto
 
@@ -111,7 +111,7 @@ Un editor de texto para programadores debe tener al menos las siguientes dos car
 
 Aunque existen muchos editores de texto en el mercado, el más popular ahora entre los programadores es Sublime Text, que se puede descargar y usar gratuitamente, aunque cada cierto tiempo te va a pedir que lo compres.
 
-Otras opciones incluyen Atom, TextMate, Brackets y Notepad++. También existen ahora editores en la Web como [Koding](https://koding.com/), [Cloud9](https://c9.io/) y [Nitrous](https://nitrous.io/).
+Otras opciones incluyen [Atom](https://atom.io/), [TextMate](https://macromates.com/), [Brackets](http://brackets.io/) y [Notepad++](https://notepad-plus-plus.org/). También existen ahora editores en la Web como [Koding](https://koding.com/), [Cloud9](https://c9.io/) y [Nitrous](https://nitrous.io/).
 
 ## Un sistema de control de versiones
 
@@ -126,9 +126,9 @@ Si no lo has hecho, ve y crea una cuenta en Github. Github es la red social de l
 
 Para aprender más de Git te recomendamos los siguientes recursos:
 
-* http://blog.makeitreal.camp/2014/10/18/git-y-github/
-* https://try.github.io/
-* https://guides.github.com/activities/hello-world/
+* <http://blog.makeitreal.camp/2014/10/18/git-y-github/>
+* <https://try.github.io/>
+* <https://guides.github.com/activities/hello-world/>
 
 ## El protocolo HTTP
 
@@ -150,7 +150,7 @@ Algunos argumentan que JavaScript se convertirá en el lenguaje dominante en el 
 
 Para cerrar esta sección vale la pena repetir que si este es tu primer acercamiento con la programación y no tienes una razón para escoger alguna de las otras opciones mencionadas, nuestra recomendación es que empieces con Ruby on Rails.
 
-## Bases de Datos[^1]
+## Bases de Datos[^n1]
 
 La información que genera una aplicación Web se almacena en una base de datos. Las bases de datos se pueden categorizar en dos: relacionales y no relacionales. La forma de interactuar con una base de datos relacional es a través de SQL (Structured Query Language). A las bases de datos no relaciones también les llaman NoSQL y en los últimos años han tomado bastante fuerza.
 
@@ -170,9 +170,9 @@ AJAX (Asynchronous JavaScript and XML) es una tecnología que permite intercambi
 
 Para empezar con jQuery te recomendamos los siguientes recursos:
 
-* http://blog.makeitreal.camp/2014/10/12/javascript-jquery-y-ajax/
-* http://try.jquery.com/
-* https://www.codecademy.com/en/tracks/jquery
+* <http://blog.makeitreal.camp/2014/10/12/javascript-jquery-y-ajax/>
+* <http://try.jquery.com/>
+* <https://www.codecademy.com/en/tracks/jquery>
 
 ## Despliegue de aplicaciones
 
@@ -186,12 +186,13 @@ Hoy, gracias a la virtualización, es posible simular un servidor exclusivo sin 
 
 La compañía líder en IaaS es Amazon con su servicio AWS (Amazon Web Services). AWS ofrece varios servicios, pero el más importante es EC2 (Elastic Cloud Compute). Con EC2 puedes solicitar uno o más servidores y pagar por hora según las necesidades de memoria y procesamiento que necesites. Toda la infraestructura de Netflix, Pinterest, AirBnB, Instagram, entre otras compañías reconocidas, están sobre AWS, por ejemplo. Existen varias alternativas a EC2 como Digital Ocean, Rackspace y Google Compute Engine.
 
-Pero desplegar una aplicación Web sobre EC2 u otro es engorroso. Necesitas solicitar un servidor[^2], seleccionar las características y el sistema operativo, esperar a que inicie e ingresar remotamente para instalar la aplicación y sus dependencias (lenguaje de programación, base de datos, etc.). Es por eso que ahora existen los PaaS (Platform as a Service).
+Pero desplegar una aplicación Web sobre EC2 u otro es engorroso. Necesitas solicitar un servidor[^n2], seleccionar las características y el sistema operativo, esperar a que inicie e ingresar remotamente para instalar la aplicación y sus dependencias (lenguaje de programación, base de datos, etc.). Es por eso que ahora existen los PaaS (Platform as a Service).
 
 Los PaaS son ideales para principiantes porque no necesitas ingresar a la máquina a instalar tu aplicación. El PaaS se encarga de eso. Ejemplos de PaaS incluyen Heroku, Google App Engine y Microsoft Azure, entre otros. La forma de desplegar tu aplicación varia entre cada PaaS, pero en la mayoría puedes hacerlo directamente con Git ejecutando un simple comando. La desventaja de los PaaS es que son más costosos y no tienes control sobre la infraestructura, aunque muchas veces eso es precisamente lo que estás buscando.
 
 
 
 
-[^1] Para ser exactos, acá estamos hablando de motores de gestión de bases de datos, pero la diferencia es irrelevante para la discusión.
-[^2] Amazon les llama instancias.
+[^n1] Para ser exactos, acá estamos hablando de motores de gestión de bases de datos, pero la diferencia es irrelevante para la discusión.
+
+[^n2] Amazon les llama instancias.
