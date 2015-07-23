@@ -12,11 +12,11 @@ Este es quizá el rol con más demanda en la actualidad y el que más rápido es
 
 ## Back-end
 
-El back-end se encarga de conectar la aplicación con la base de datos y otros servicios externos. 
+El back-end se encarga de conectar la aplicación con la base de datos y otros servicios externos. Eso tiene muchas implicaciones: autenticación y autorización de usuarios. lectura, escritura, actualización y eliminación de información de la base de datos, envío de correos automatizados, tareas recurrentes, API's, entre otros.
 
 ## Operaciones
 
-Se encarga de desplegar la aplicación en Internet y brindar soporte a los usuarios. Es la persona que maneja los servidores, hace copias de seguridad de la base de datos y en general está atento al funcionamiento de la aplicación en producción.
+Se encarga de desplegar la aplicación en Internet y brindar soporte a los usuarios. Es la persona que maneja los servidores, hace copias de seguridad de la base de datos y en general está atento al correcto funcionamiento de la aplicación en producción.
 
 A los desarrolladores que hacen todos los roles se les conoce como Full Stack Developers. Aunque todavía hay mucha demanda por Full Stack Developers, la tendencia es a la especialización.
 

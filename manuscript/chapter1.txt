@@ -4,7 +4,7 @@ El desarrollo Web es uno de los campos más emocionantes de la actualidad. No ex
 
 Es una revolución sin precedente, pero este es solo el comienzo. Sectores como la educación, la política y la salud, entre muchos otros hasta ahora están empezando a ser transformados. En los próximos años seremos testigos de enormes cambios, cambios de los que tu puedes ser parte también.
 
-Cualquier persona que pueda usar un computador se puede convertir en Desarrollador Web. A diferencia de lo que muchos creen no necesitas ser bueno en matemáticas ni tener un cerebro especial. Tampoco necesitas un título ni un certíficado. Necesitas ser perseverante, optimista y determinado(a).
+Cualquier persona que pueda usar un computador se puede convertir en Desarrollador Web. A diferencia de lo que muchos creen no necesitas ser bueno en matemáticas ni tener un cerebro especial. Tampoco necesitas gastar una fortuna y asistir a una universidad por 4 años. Necesitas ser perseverante, optimista y determinado(a).
 
 Esta guía te va a mostrar cómo convertirte en Desarrollador Web: la mentalidad que necesitas cultivar, las tecnologías que debes aprender, por dónde empezar y cómo encontrar tu primer empleo.
 
@@ -13,6 +13,6 @@ Si tienes alguna pregunta o comentario sobre esta guía no dudes en escribirme a
 Un cordial saludo,
 
 
-Germán Escobar
 
+Germán Escobar<br>
 makeitreal.camp

@@ -12,11 +12,11 @@ El siguiente paso es aprender un lenguaje de programación. Algunas personas rec
 
 Para trabajar con Ruby o Python necesitas aprender a manejar la línea de comandos. También conocida como "DOS", "consola" o "terminal", la línea de comandos era la única forma de interactuar con un computador cuando no existían interfaces gráficas, pero los programadores la seguimos utilizando.
 
-Una herramienta importante que debes aprender a manejar es un sistema de control de versiones que guarde el historial de cambios del código y te permita trabajar en equipo con otros sobre el mismo proyecto de forma simultánea. El sistema de control de versiones más popular actualmente es Git y es el que te recomendamos aprender.
+Una herramienta importante que debes aprender a manejar es un sistema de control de versiones, preferiblemente Git. Un sistema de control de versiones guarda el historial de cambios del código y te permite trabajar sobre el mismo proyecto con más personas de forma simultánea.
 
 Para crear aplicaciones Web tipo Twitter, Facebook, etc. necesitas escoger y aprender sobre un framework Web. Tu decisión dependerá del lenguaje de programación que hayas escogido. Por ejemplo, el framework Web más popular de Ruby es Ruby on Rails, el más popular de Python es Django y el más popular de Node.js (JavaScript) es Express.js. Más adelante profundizaremos sobre estas opciones. También necesitarás aprender a manejar una o varias Base de Datos como MySQL, PostgreSQL, MongoDB, etc.
 
-La tendencia actual es crear aplicaciones de una página, llamadas SPA's (Single Page Applications) que nunca se refrescan. Muchos argumentan que ofrecen una mejor experiencia al usuario y se han creado innumerables frameworks basados en JavaScript como Angular, Ember, Backbone y React por nombrar algunos. Si quieres especializarte en Front-end deberás aprender varios de estos frameworks. En cualquier caso deberías aprender al menos sobre jQuery, que es la librería de JavaScript más básica para manipular HTML, escuchar eventos (clicks, teclas, etc.), hacer animaciones e interactuar con servidores remotos a través de AJAX desde el navegador.
+La tendencia actual es crear aplicaciones de una página, llamadas SPA's (Single Page Applications) que nunca se refrescan. Muchos argumentan que ofrecen una mejor experiencia al usuario y se han creado innumerables frameworks con ese fin. Todos son basados en JavaScript, claro. Entre los más populares están Angular, Ember, Backbone y React por nombrar algunos. Si quieres especializarte en Front-end deberás aprender varios de estos frameworks. En cualquier caso deberías aprender al menos sobre jQuery, que es la librería de JavaScript más básica para manipular HTML, escuchar eventos (clicks, teclas, etc.), hacer animaciones e interactuar con servidores remotos a través de AJAX desde el navegador.
 
 Por último, es importante que sepas las opciones que existen para desplegar tus aplicaciones en Internet como Heroku, AWS, Digital Ocean, etc.
 
@@ -32,11 +32,23 @@ Adicionalmente deberás aprender sobre un framework de HTML y CSS como [Bootstra
 
 ¿Qué te ofrece un framework HTML y CSS como Bootstrap? Primero, estilos básicos para los elementos de HTML como tipografía, tablas, formularios, imágenes, etc. Segundo, una grilla para que puedas organizar los elementos en la página más fácilmente y que se adapten al tamaño de la pantalla. Por último, un catalogo de componentes que la mayoría de sitios necesitan como barras de navegación, pestañas, mensajes de alertas, modales, barras de progreso, entre muchos otros componentes.
 
+Para empezar a aprender HTML, CSS y Bootstrap te recomendamos los siguientes recursos:
+
+* http://blog.makeitreal.camp/2015/03/10/html-css/
+* https://www.codecademy.com/tracks/web
+* http://getbootstrap.com/
+* http://www.w3schools.com/
+
 ## Un lenguaje de programación
 
 Aprender un lenguaje de programación no es como aprender HTML y CSS. Esta es la parte en que más personas se frustran porque lo más difícil no es aprender la sintaxis (las reglas) del lenguaje, lo difícil es aprender la lógica del programador, es decir, cómo usar el lenguaje para solucionar problemas.
 
-Veamos algunos lenguajes con sus fortalezas y debilidades.
+Si este es tu primer acercamiento con la programación te recomendamos los siguientes recursos para que empieces a desarrollar la lógica de programación:
+
+* http://code.org/
+* https://scratch.mit.edu/
+
+Veamos ahora algunos lenguajes con sus fortalezas y debilidades.
 
 ### JavaScript
 
@@ -44,17 +56,33 @@ La ventaja de JavaScript es que está en todo lado. JavaScript es el único leng
 
 La desventaja de JavaScript es que no es muy buen lenguaje, la sintaxis es compleja, y en general, es un lenguaje complicado. Hoy en día están intentando arreglarlo pero el problema es que deben seguir soportando todas las características antiguas del lenguaje porque la mayoría de páginas Web usan JavaScript.
 
+Para empezar con JavaScript te recomendamos los siguientes recursos:
+
+* https://www.javascript.com/
+* https://www.codecademy.com/tracks/javascript
+
 ### Ruby y Python
 
 La sintaxis de estos dos lenguajes es muy parecida. Es clara y muy amigable para el principiante. Son lenguajes pensados en la productividad del programador, más que en el rendimiento.
 
 Ruby es hoy muy popular para construir aplicaciones Web. Twitter, Groupon, Shopify, Stripe y la mayoría de startups hoy en día usan Ruby. Python se usa mucho para análisis de datos e inteligencia artificial, aunque también es posible crear aplicaciones Web con Python.
 
-La desventaja de estos lenguajes es que son relativamente lentos y la configuración en Windows no es fácil.
+La desventaja de estos lenguajes es que son relativamente lentos y en Windows no son tan fáciles de configurar como en Linux y Mac (que generalmente ya vienen instalados).
+
+Para empezar con Ruby te recomendamos los siguientes recursos:
+
+* https://pine.fm/LearnToProgram/
+* https://www.codecademy.com/tracks/ruby
+* http://blog.makeitreal.camp/2015/02/23/programacion-orientada-por-objetos-ruby/
+
+Para empezar con Python te recomendamos el siguiente recurso:
+
+* http://www.learnpython.org/
+* https://www.codecademy.com/tracks/python
 
 ### PHP
 
-PHP fue uno de los primeros lenguajes enfocados a la Web y aún existen muchas aplicaciones sobre este lenguaje. Wordpress, que es el CMS (Sistema de Administración de Contenidos) más popular de la actualidad está hecho sobre PHP. Facebook, una de las aplicaciones más usadas actualmente también está hecha con PHP.
+PHP fue uno de los primeros lenguajes enfocados en la Web y aún existen muchas aplicaciones sobre este lenguaje. Wordpress, que es el CMS (Sistema de Administración de Contenidos) más popular de la actualidad está hecho sobre PHP. Facebook, una de las aplicaciones más usadas actualmente también está hecha con PHP.
 
 La desventaja de PHP es que no es un buen lenguaje de programación y muchos empleos de PHP son para mantener sitios muy antiguos.
 
@@ -62,13 +90,18 @@ La desventaja de PHP es que no es un buen lenguaje de programación y muchos emp
 
 Estos son lenguajes muy populares a nivel empresarial. También son los lenguajes que hoy siguen enseñando las universidades. La ventaja es que, a diferencia de Ruby y Python, son lenguajes con un muy buen rendimiento.
 
-La desventaja es que no están pensados en la productividad del programador. Son lenguajes con grandes compañías (Oracle y Microsoft respectivamente) detrás que esperan lucrarse de alguna forma u otra del lenguaje (generalmente cobrándoles a grandes empresas por soluciones sobre dimensionadas que no necesitan). Los empleos en estos lenguajes son, generalmente, en grandes empresas que ven la tecnología más como una amenaza que como una oportunidad.
+La desventaja es que no están pensados en la productividad del programador. Grandes compañías (Oracle y Microsoft respectivamente) están detrás y esperan lucrarse de alguna forma u otra del lenguaje (generalmente cobrándoles a grandes empresas por soluciones sobre dimensionadas que no necesitan). Los empleos en estos lenguajes son, generalmente, en grandes empresas que ven la tecnología más como una amenaza que como una oportunidad.
 
-En todos estos lenguajes vas a encontrar trabajo. Para Java y C-Sharp es posible que te pidan títulos o certificados por el tipo de empresas que contratan para estos lenguajes. Pero en general, vas a notar que las empresas valoran más lo que has creado y si verdaderamente tienes un interés por la programación o no.
+En todos estos lenguajes vas a encontrar trabajo. Para Java y C-Sharp es posible que te pidan títulos o certificados por el tipo de empresas que contratan para estos lenguajes. Pero en general, vas a notar que las empresas valoran más lo que has creado y si verdaderamente tienes un interés por la programación.
 
 ## La línea de comandos
 
 La línea de comandos es un aplicación que nos permite escribir y ejecutar comandos sobre el sistema operativo sin necesidad de usar el mouse. Los programadores la siguen usando porque permite automatizar tareas rápidamente sin necesidad de crear interfaces gráficas. También es la forma de interactuar con servidores remotos. Muchas de las aplicaciones que usan los Desarrolladores Web son aplicaciones para la línea de comandos.
+
+Para aprender más sobre la línea de comandos te recomendamos los siguientes recursos:
+
+* http://blog.makeitreal.camp/2015/04/07/la-linea-de-comandos/
+* https://www.codecademy.com/courses/learn-the-command-line
 
 ## Un editor de texto
 
@@ -91,6 +124,12 @@ El sistema de control de versiones más popular actualmente es Git. Git fue dise
 
 Si no lo has hecho, ve y crea una cuenta en Github. Github es la red social de los programadores. Ahí puedes ver el código de varios proyectos Open Source, colaborar en esos proyectos o publicar tus propios proyectos.
 
+Para aprender más de Git te recomendamos los siguientes recursos:
+
+* http://blog.makeitreal.camp/2014/10/18/git-y-github/
+* https://try.github.io/
+* https://guides.github.com/activities/hello-world/
+
 ## El protocolo HTTP
 
 Cada vez que entras a algún sitio Web (p.e. Google o Facebook), tu navegador está intercambiando mensajes según unas reglas establecidas por HTTP (Hyper Text Transfer Protocol).
@@ -99,20 +138,60 @@ Muchas personas prefieren aprender primero un framework Web antes de HTTP, pero 
 
 ## Un framework Web
 
-Escribir una aplicación Web manipulando directamente el protocolo HTTP es muy engorroso. Es por eso que se han creado librerías y frameworks que facilitan la creación de aplicaciones Web. Igual es importante entender el protocolo HTTP, pero estas librerías y frameworks nos facilitan la vida.
+Para crear aplicaciones Web es recomendable usar un framework Web. Para cada lenguaje vas a encontrar varias opciones, aunque siempre hay uno que es más popular que los demás. Como decíamos antes, el framework Web más popular de Ruby se llama Ruby on Rails. El de Python se llama Django, el de Node.js se llama Express.js. Y la verdad es que todos estos frameworks son parecidos porque siguen un patrón llamado MVC (Modelo Vista Controlador). PHP ahora también tiene un framework MVC llamado Laravel.
 
-Un framework Web se puede hacer usando cualquier lenguaje de programación. Existen frameworks para Ruby, Python, Node.js, Java, etc.
+¿Cuál aprender? La respuesta es cualquiera siempre y cuando sea un framework MVC. Si empezaste aprendiendo Python intenta Django. Si empezaste con JavaScript sigue con Express.js. Y así.
 
-Si entiendes bien el protocolo HTTP, aprender cualquiera de estos frameworks es mucho más fácil.
+Si no has empezado con ningún lenguaje nuestra recomendación sería escoger algo que tus amigo(a)s o en tu empresa usen (asegúrate de que les puedas preguntar todo lo que necesites sin que se enojen). 
 
-// Falta hablar de las opciones con mayor profundidad.
+Si no tienes amigos desarrolladores Web y tu empresa no es de tecnología, nuestra recomendación sería que empezaras con Ruby y Ruby on Rails. La razón es que Ruby on Rails es amigable para principiantes pero al mismo tiempo es utilizado por importantes compañías y startups en Estados Unidos como Twitter, Groupon, Stripe, Shopify, etc. También en Latinoamérica está tomando bastante fuerza. Además, los mejores recursos para aprender están enfocados en Rails.
+
+Algunos argumentan que JavaScript se convertirá en el lenguaje dominante en el back-end a través de Node.js. Al fin y al cabo, JavaScript es un lenguaje obligatorio. Podrías empezar con Express.js, o algo más arriesgado como Meteor, que lleva a JavaScript al límite para crear aplicaciones Web reutilizando código en el servidor y el navegador. Meteor aún está en su infancia pero es un proyecto muy interesante. Igual, no recomendaríamos Express.js ni Meteor para empezar, a menos de que sea lo que usan tus amigo(a)s o en la empresa en que trabajas.
+
+Para cerrar esta sección vale la pena repetir que si este es tu primer acercamiento con la programación y no tienes una razón para escoger alguna de las otras opciones mencionadas, nuestra recomendación es que empieces con Ruby on Rails.
+
+## Bases de Datos[^1]
+
+La información que genera una aplicación Web se almacena en una base de datos. Las bases de datos se pueden categorizar en dos: relacionales y no relacionales. La forma de interactuar con una base de datos relacional es a través de SQL (Structured Query Language). A las bases de datos no relaciones también les llaman NoSQL y en los últimos años han tomado bastante fuerza.
+
+Ejemplos de bases de datos relacionales incluyen MySQL, PostgreSQL, Oracle y SQLServer (Microsoft). Ejemplos de bases de datos no relacionales incluyen MongoDB, CouchDB, Cassandra y Redis.
+
+Nuestra recomendación es que no te preocupes por la base de datos en este momento. Cuando aprendas un framework Web seguramente aprenderás sobre bases de datos. Si aprendes Ruby on Rails seguramente vas a escoger PostgreSQL. Si aprendes Express.js seguramente vas a escoger MongoDB, y así.
+
+Solo un consejo y es empezar con una base de datos relacional (por eso tampoco es buena idea empezar con Express.js o Meteor como framework Web). La razón es que una base de datos relacional funciona muy bien para la mayoría de aplicaciones Web. Las no relacionales tienen su lugar, pero se usan para casos específicos. En muchas aplicaciones Web se usan los dos tipos de bases de datos, pero generalmente la principal es relacional.
 
 ## jQuery
 
-jQuery es una librería escrita en JavaScript para manipular HTML, escuchar eventos (clicks, movimientos del mouse, teclas, etc.) y hacer llamados AJAX a servidores remotos.
+jQuery es una librería escrita en JavaScript que soluciona las diferencias entre los navegadores al manipular HTML, escuchar eventos (clicks, movimientos del mouse, teclas, etc.) y hacer llamados AJAX a servidores remotos.
 
-## Bases de Datos
+Aunque se dice que en un futuro no va a ser necesario jQuery (porque las diferencias entre los navegadores es cada vez menor), la realidad es que hoy sigue siendo una tecnología fundamental en el desarrollo Web. No solo eso, si quieres especializarte en front-end deberías convertirte en un maestro jQuery.
 
+AJAX (Asynchronous JavaScript and XML) es una tecnología que permite intercambiar información con un servidor remoto sin necesidad de refrescar la página y aunque es posible hacer llamados AJAX sin jQuery, es mucho más fácil con jQuery.
 
+Para empezar con jQuery te recomendamos los siguientes recursos:
+
+* http://blog.makeitreal.camp/2014/10/12/javascript-jquery-y-ajax/
+* http://try.jquery.com/
+* https://www.codecademy.com/en/tracks/jquery
 
 ## Despliegue de aplicaciones
+
+"Desplegar" es un término que utilizamos los programadores cuando nos referirnos a publicar una aplicación Web (por primera vez o con cambios que hemos hecho) en Internet.
+
+La verdad es que este es otro tema del que no te deberías preocupar en este momento. Al fin y al cabo, primero debes aprender a construir las aplicaciones, pero igual lo mencionamos acá para que lo tengas en cuenta.
+
+El tema de servidores ha evolucionado muy rápido en los últimos años. Antes eran muy populares los "hosting compartidos", en donde se publicaban varias aplicaciones sobre un mismo servidor y todas compartían el sistema operativo y los mismos recursos de la máquina. Era la única opción en muchos casos porque alquilar un servidor exclusivo era muy costoso.
+
+Hoy, gracias a la virtualización, es posible simular un servidor exclusivo sin necesidad de que físicamente sea exclusivo. Además, hoy es posible alquilar servidores virtualizados por horas y el proceso para hacerlo toma minutos. A esto se le llama IaaS (Infrastructure as a Service). Antes solicitar un servidor exclusivo tomaba horas y el cobro era mensual.
+
+La compañía líder en IaaS es Amazon con su servicio AWS (Amazon Web Services). AWS ofrece varios servicios, pero el más importante es EC2 (Elastic Cloud Compute). Con EC2 puedes solicitar uno o más servidores y pagar por hora según las necesidades de memoria y procesamiento que necesites. Toda la infraestructura de Netflix, Pinterest, AirBnB, Instagram, entre otras compañías reconocidas, están sobre AWS, por ejemplo. Existen varias alternativas a EC2 como Digital Ocean, Rackspace y Google Compute Engine.
+
+Pero desplegar una aplicación Web sobre EC2 u otro es engorroso. Necesitas solicitar un servidor[^2], seleccionar las características y el sistema operativo, esperar a que inicie e ingresar remotamente para instalar la aplicación y sus dependencias (lenguaje de programación, base de datos, etc.). Es por eso que ahora existen los PaaS (Platform as a Service).
+
+Los PaaS son ideales para principiantes porque no necesitas ingresar a la máquina a instalar tu aplicación. El PaaS se encarga de eso. Ejemplos de PaaS incluyen Heroku, Google App Engine y Microsoft Azure, entre otros. La forma de desplegar tu aplicación varia entre cada PaaS, pero en la mayoría puedes hacerlo directamente con Git ejecutando un simple comando. La desventaja de los PaaS es que son más costosos y no tienes control sobre la infraestructura, aunque muchas veces eso es precisamente lo que estás buscando.
+
+
+
+
+[^1] Para ser exactos, acá estamos hablando de motores de gestión de bases de datos, pero la diferencia es irrelevante para la discusión.
+[^2] Amazon les llama instancias.
