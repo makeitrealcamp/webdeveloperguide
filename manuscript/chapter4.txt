@@ -18,7 +18,7 @@ Para crear aplicaciones Web tipo Twitter, Facebook, etc. necesitas escoger y apr
 
 La tendencia actual es crear aplicaciones de una página, llamadas SPA's (Single Page Applications) que nunca se refrescan. Muchos argumentan que ofrecen una mejor experiencia al usuario y se han creado innumerables frameworks con ese fin. Todos son basados en JavaScript, claro. Entre los más populares están Angular, Ember, Backbone y React por nombrar algunos. Si quieres especializarte en Front-end deberás aprender varios de estos frameworks. En cualquier caso deberías aprender al menos sobre jQuery, que es la librería de JavaScript más básica para manipular HTML, escuchar eventos (clicks, teclas, etc.), hacer animaciones e interactuar con servidores remotos a través de AJAX desde el navegador.
 
-Por último, es importante que sepas las opciones que existen para desplegar tus aplicaciones en Internet como Heroku, AWS, Digital Ocean, etc.
+Por último, es importante que conozcas las opciones que existen para desplegar tus aplicaciones en Internet como Heroku, AWS, Digital Ocean, etc.
 
 ¿Mucha información? Profundicemos un poco más en cada una de estas tecnologías y el rol que desempeñan en la creación de aplicaciones Web.
 
@@ -43,7 +43,7 @@ Si quieres empezar a aprender HTML, CSS y Bootstrap te recomendamos los siguient
 
 Aprender un lenguaje de programación no es como aprender HTML y CSS. Esta es la parte en que más personas se frustran porque lo más difícil no es aprender la sintaxis (las reglas) del lenguaje, lo difícil es aprender la lógica del programador, es decir, cómo usar el lenguaje para solucionar problemas.
 
-Si este es tu primer acercamiento con la programación te recomendamos los siguientes recursos para que empieces a desarrollar la lógica de programación:
+Si este es tu primer acercamiento con la programación te recomendamos los siguientes recursos que, aunque están diseñados para niños, te van a desarrollar la lógica de programación:
 
 * <http://code.org/>
 * <https://scratch.mit.edu/>
@@ -52,9 +52,9 @@ Veamos ahora algunos lenguajes con sus fortalezas y debilidades.
 
 ### JavaScript
 
-La ventaja de JavaScript es que está en todo lado. JavaScript es el único lenguaje de programación que entienden actualmente los navegadores, así que muchas veces no hay opción. También lo han adaptado para el back-end con una plataforma llamada Node.js que funciona muy bien para cierto tipo de aplicaciones (chats, streaming de video, etc.). Y aunque es posible crear aplicaciones Web con Node.js, no es muy recomendable.
+La ventaja de JavaScript es que está en todas partes. JavaScript es el único lenguaje de programación que entienden actualmente los navegadores, así que muchas veces no hay opción. También lo han adaptado para el back-end con una plataforma llamada Node.js que funciona muy bien para cierto tipo de aplicaciones (chats, streaming de video, etc.). Y aunque es posible crear aplicaciones Web con Node.js, no es muy recomendable.
 
-La desventaja de JavaScript es que no es muy buen lenguaje, la sintaxis es compleja, y en general, es un lenguaje complicado. Hoy en día están intentando arreglarlo pero el problema es que deben seguir soportando todas las características antiguas del lenguaje o, de lo contrario, muchos sitios dejarían de funcionar.
+La desventaja de JavaScript es que no es muy buen lenguaje, la sintaxis es compleja, y en general, es un lenguaje complicado. Hoy en día están intentando arreglarlo pero el problema es que deben seguir soportando todas las características antiguas del lenguaje o de lo contrario muchos sitios dejarían de funcionar.
 
 Para empezar con JavaScript te recomendamos los siguientes recursos:
 
@@ -122,9 +122,9 @@ Un sistema de control de versiones tiene dos objetivos principales:
 * Guardar el historial de cambios sobre el código de un proyecto.
 * Permitir a varias personas contribuir simultáneamente sobre un mismo proyecto.
 
-El sistema de control de versiones más popular actualmente es Git. Git fue diseñado y desarrollado inicialmente por Linus Torvalds en el 2005 cuando BitKeeper, el sistema de control de versiones que utilizaban para el desarrollo de Linux, cambiara su licencia y no permitiera su uso libre.
+El sistema de control de versiones más popular actualmente es Git. Git fue diseñado y desarrollado inicialmente por Linus Torvalds (creador del sistema operativo Linux) en el 2005 cuando BitKeeper, el sistema de control de versiones que utilizaban para el desarrollo de Linux, cambiara su licencia y no permitiera su uso libre.
 
-Si no lo has hecho, ve y crea una cuenta en Github. Github es la red social de los programadores. Ahí puedes ver el código de varios proyectos Open Source, colaborar en esos proyectos o publicar tus propios proyectos.
+Si no lo has hecho, ve y crea una cuenta en [Github](https://github.com/). [Github](https://github.com/) es la red social de los programadores. Ahí puedes ver el código de varios proyectos Open Source, colaborar en esos proyectos o publicar tus propios proyectos.
 
 Para aprender más de Git te recomendamos los siguientes recursos:
 
@@ -142,11 +142,11 @@ Muchas personas prefieren aprender primero un framework Web antes de HTTP, pero 
 
 Para crear aplicaciones Web es recomendable usar un framework Web. Para cada lenguaje vas a encontrar varias opciones, aunque siempre hay uno que es más popular que los demás. Como decíamos, el framework Web más popular de Ruby se llama Ruby on Rails. El de Python se llama Django, el de Node.js se llama Express.js. Y la verdad es que todos estos frameworks son parecidos porque siguen un patrón llamado MVC (Modelo Vista Controlador). PHP ahora también tiene un framework MVC llamado Laravel.
 
-¿Cuál aprender? La respuesta es cualquiera siempre y cuando sea un framework MVC. Si empezaste aprendiendo Python intenta Django. Si empezaste con JavaScript sigue con Express.js. Y así.
+¿Cuál aprender? La respuesta es **cualquiera** siempre y cuando sea un framework MVC. Si empezaste aprendiendo Python intenta Django. Si empezaste con JavaScript sigue con Express.js. Y así.
 
 Si no has empezado con ningún lenguaje nuestra recomendación sería escoger algo que tus amigo(a)s o en tu empresa usen (asegúrate de que les puedas preguntar todo lo que necesites sin que se enojen). 
 
-Si no tienes amigo(a)s desarrolladores Web y tu empresa no es de tecnología, nuestra recomendación sería que empezaras con Ruby y Ruby on Rails. La razón es que Ruby on Rails es amigable para principiantes pero al mismo tiempo es utilizado por importantes compañías y startups en Estados Unidos como Twitter, Groupon, Stripe, Shopify, etc. También en Latinoamérica está tomando bastante fuerza. Además, los mejores recursos para aprender están enfocados en Rails.
+Si no tienes amigo(a)s desarrolladores Web y tu empresa no es de tecnología, nuestra recomendación es que empieces con Ruby y Ruby on Rails. La razón es que Ruby on Rails es amigable para principiantes pero al mismo tiempo es utilizado por importantes compañías y startups en Estados Unidos como Twitter, Groupon, Stripe, Shopify, etc. También en Latinoamérica está tomando bastante fuerza. Además, los mejores recursos para aprender están enfocados en Rails.
 
 Algunos argumentan que JavaScript se convertirá en el lenguaje dominante en el back-end a través de Node.js. Al fin y al cabo, JavaScript es un lenguaje obligatorio. Si quieres empezar por ahí aprende Express.js o algo más arriesgado como Meteor, que lleva a JavaScript al límite para crear aplicaciones Web reutilizando código en el servidor y el navegador. Meteor aún está en su infancia pero es un proyecto muy interesante. Igual, no recomendaríamos Express.js ni Meteor para empezar, a menos de que sea lo que usan tus amigo(a)s o en la empresa en que trabajas.
 
@@ -160,13 +160,13 @@ Ejemplos de bases de datos relacionales incluyen MySQL, PostgreSQL, Oracle y SQL
 
 Nuestra recomendación es que no te preocupes por la base de datos en este momento. Cuando aprendas un framework Web seguramente aprenderás sobre bases de datos. Si aprendes Ruby on Rails seguramente vas a escoger PostgreSQL. Si aprendes Express.js seguramente vas a escoger MongoDB, y así.
 
-Solo un consejo y es empezar con una base de datos relacional (por eso tampoco es buena idea empezar con Express.js o Meteor como framework Web). La razón es que una base de datos relacional funciona muy bien para la mayoría de aplicaciones Web. Las no relacionales tienen su lugar, pero se usan para casos específicos. En muchas aplicaciones Web se usan los dos tipos de bases de datos, pero generalmente la principal es relacional.
+Solo un consejo y es empezar con una base de datos relacional (por eso tampoco es buena idea empezar con Express.js o Meteor como framework Web). La razón es que las bases de datos relacionales funcionan muy bien para la mayoría de aplicaciones Web. Las no relacionales tienen su lugar, pero se usan para casos específicos. En muchas aplicaciones Web se usan los dos tipos de bases de datos, pero generalmente la principal es relacional.
 
 ## jQuery
 
 jQuery es una librería escrita en JavaScript que soluciona las diferencias entre los navegadores al manipular HTML, escuchar eventos (clicks, movimientos del mouse, teclas, etc.) y hacer llamados AJAX a servidores remotos.
 
-Aunque se dice que en un futuro no va a ser necesario jQuery (porque las diferencias entre los navegadores es cada vez menor), la realidad es que hoy sigue siendo una tecnología fundamental en el desarrollo Web. No solo eso, si quieres especializarte en front-end deberías convertirte en un maestro jQuery.
+Aunque se dice que en un futuro no va a ser necesario jQuery (porque las diferencias entre los navegadores son cada vez menor), la realidad es que hoy sigue siendo una tecnología fundamental en el desarrollo Web. No solo eso, si quieres especializarte en front-end deberías convertirte en un maestro jQuery.
 
 AJAX (Asynchronous JavaScript and XML) es una tecnología que permite intercambiar información con un servidor remoto sin necesidad de refrescar la página y aunque es posible utilizar AJAX sin jQuery, es mucho más fácil con jQuery.
 

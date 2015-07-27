@@ -12,15 +12,15 @@ Como te puedes dar cuenta, la oportunidad es especialmente interesante para los 
 
 Sin embargo, encontrar un empleo como Desarrollador Web Junior es relativamente fácil si tienes un verdadero interés por la programación y te gusta enfrentarte a nuevos retos. Nuestro consejo es que pienses muy bien en tus razones y motivaciones, especialmente si estás pensando en cambiar de carrera.
 
-Si crees que tu principal motivación es la programación y quieres convertirte en Desarrollador Web, el siguiente paso para encontrar un empleo es el siguiente: **olvida el empleo y concentrarte en maximizar tu aprendizaje**. Algunos consejos son: 
+Si crees que tu principal motivación es la programación y quieres convertirte en Desarrollador Web, el siguiente paso para encontrar un empleo es el siguiente: **olvida el empleo y concéntrate en maximizar tu aprendizaje**. Algunos consejos son: 
 
 * Busca nuevos retos para trabajar (así no te paguen). Construye versiones simplificadas de tus aplicaciones Web favoritas o intenta resolver problemas en [HackerRank](http://hackerrank.com/) por ejemplo.
 * Busca inspiración en videos, blogs, etc.
 * Asiste a las reuniones de programadores (Meetups) y a hackathons. También a Startup Weekends.
 * Aprende sobre nuevos lenguajes y tecnologías.
 * Fortalece los fundamentos de la programación: algoritmos, estructuras de datos, sistemas operativos, compiladores, etc.
-* Escribe y comparte lo que estás aprendiendo (esto es quizá lo que separa a los buenos de los mejores).
+* Escribe y comparte lo que estás aprendiendo.
 * Lee libros de programación.
 * Aplica a empleos. No pienses que vas a conseguir inmediatamente pero te va a dar una idea de lo que te falta por aprender.
 
-Para concluir vale la pena recalcar que existe una gran oportunidad para los que aprendan a programar, pero nada es fácil en la vida. Vas a necesitar tu mayor concentración y dedicación para llegar a un nivel en el que puedas ser empleable, y mucho más para conseguir un buen empleo.
+Para concluir vale la pena reiterar que existe una gran oportunidad para los que aprendan a programar, pero nada es fácil en la vida. Vas a necesitar tu mayor concentración y dedicación para llegar a un nivel en el que puedas ser empleable, y mucho más para conseguir el empleo de tus sueños.

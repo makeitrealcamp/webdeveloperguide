@@ -1,16 +1,13 @@
 # ¿Dónde puedo aprender todo esto?
 
-Puedes empezar por los links que te compartimos. Sigue tutoriales, busca en Internet. Nunca esperes a que alguien te "enseñe" a programar. Recuerda que la programación no es algo que se pueda enseñar, pero es algo que tu puedes aprender. Apropiate de tu aprendizaje. Investiga por tu propia cuenta.
+Puedes empezar por los links que te compartimos. Sigue tutoriales, busca en Internet. Nunca esperes a que alguien te "enseñe" a programar. Recuerda que la programación no es algo que se pueda enseñar, pero es algo que tu puedes aprender. Aprópiate de tu aprendizaje. Investiga por tu propia cuenta.
 
 Habla con Desarrolladores Web, cuéntales qué estás aprendiendo, qué se te está dificultando y cuáles son tus metas. La comunidad de desarrolladores es muy abierta y muchas personas están dispuestas a ayudar. De nuevo, no esperes a que te enseñen, pero pídeles que te guíen.
 
 Encuentra proyectos interesantes y cada vez más complejos en los que puedas trabajar. Recuerda que la programación es una herramienta para resolver problemas. Concéntrate en resolver un problema a la vez. Este es quizá el reto más difícil para los principiantes y por eso es una buena idea acelarar tu aprendizaje con un programa estructurado en el que te propongan retos y proyectos para aplicar tus conocimientos.
 
-Estamos sesgados al recomendarte un programa para acelerar tu aprendizaje, así que es mejor que hagas tu propia investigación. Busca en Google, pregúntale a otros Desarrolladores Web. Busca un programa personalizado, con mentores experimentados, y una comunidad de alumnos con los que puedas interactuar y trabajar. Asegúrate de poder hablar con un instructor primero, cuéntale tus metas y pregúntale si el programa es para ti. Pide hablar con uno o dos alumnos también. Si no aceptan ninguna de estas peticiones, es una bandera roja que debes tener en cuenta.
+Estamos sesgados al recomendarte un programa para acelerar tu aprendizaje, así que es mejor que hagas tu propia investigación. Busca en Google, pregúntale a otros Desarrolladores Web. Busca un programa personalizado, con mentores experimentados, y una comunidad de alumnos con los que puedas interactuar y trabajar. Asegúrate de poder hablar con un instructor primero, cuéntale tus metas y pregúntale si el programa es para ti. Pide hablar con uno o dos alumnos también. Si no aceptan ninguna de estas peticiones busca otras alternativas.
 
-Por último, ten en cuenta el gran esfuerzo que requiere aprender todo esto. Vas a necesitar incontables horas de concentración total. Va a ser frustrante. El código no va a funcionar muchas veces y al principio será un completo desorden. No te preocupes, concentrate en hacerlo funcionar. Piensa que alguien te está pagando por eso y necesitas terminarlo. Llegará un punto en el que todo habrá valido la pena.
+Por último, ten en cuenta el gran esfuerzo que requiere aprender todo esto. Vas a necesitar incontables horas de concentración. Va a ser frustrante. El código no va a funcionar muchas veces y al principio será un completo desorden. No te preocupes, concéntrate en hacerlo funcionar. Piensa que alguien te está pagando y necesitas terminarlo. Llegará un punto en el que todo habrá valido la pena.
 
 Nuestro último consejo es que no intentes aprender todo en orden y entender todo la primera vez. El aprendizaje es caótico y cíclico. Las personas que aprenden más rápido se concentran en los temas principales y en avanzar lo más rápido posible, no en entender todo lo que leen.
-
----
-
