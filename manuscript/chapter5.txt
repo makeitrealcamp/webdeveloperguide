@@ -2,7 +2,7 @@
 
 Es cierto que existe una oportunidad enorme para los Desarrolladores Web, y en general para los programadores. La demanda sigue aumentando al igual que los salarios. Muchos trabajan remotamente, con gran flexibilidad horaria. El estilo de vida de muchos Desarrolladores Web es bastante envidiable para los estándares de la actualidad. Pero eso no quiere decir que conseguir un empleo así sea fácil. Veamos qué necesitas realmente para conseguir un empleo como Desarrollador Web.
 
-Lo primero que debes saber es que los empleadores dividen a los Desarrolladores Web en dos: Junior y Senior. ¿Qué diferencia a uno del otro? Definitivamente no es un título ni un certificado. Para que te des una idea, un Desarrollador Web Junior necesita invertir mínimo entre 800 y 1,200 horas de aprendizaje para conseguir un empleo. Por otro lado, un Desarrollador Web Senior ha programado durante al menos 5 años tiempo completo (~10,000 horas) y es capaz de liderar un grupo de desarrollo.
+Lo primero que debes saber es que los empleadores dividen a los Desarrolladores Web en dos: Junior y Senior. ¿Qué diferencia a uno del otro? Definitivamente no es un título ni un certificado. Para que te des una idea, un Desarrollador Web Junior necesita invertir mínimo entre 800 y 1,200 horas de aprendizaje para conseguir un empleo. Por otro lado, un Desarrollador Web Senior ha programado durante al menos 5 años tiempo completo (~10,000 horas) y es capaz de liderar un equipo de desarrollo.
 
 En Estados Unidos un Desarrollador Web Junior puede empezar ganando entre $4,000 a $6,000 dólares al mes, pero en Latinoamérica ese rango es mucho más bajo: entre $800 y $2,000 dólares. Sería ideal encontrar empleo remoto como Desarrollador Web Junior en Estados Unidos pero no es fácil.
 
@@ -22,3 +22,5 @@ Si crees que tu principal motivación es la programación y quieres convertirte 
 * Escribe y comparte lo que estás aprendiendo (esto es quizá lo que separa a los buenos de los mejores).
 * Lee libros de programación.
 * Aplica a empleos. No pienses que vas a conseguir inmediatamente pero te va a dar una idea de lo que te falta por aprender.
+
+Para concluir vale la pena recalcar que existe una gran oportunidad para los que aprendan a programar, pero nada es fácil en la vida. Vas a necesitar tu mayor concentración y dedicación para llegar a un nivel en el que puedas ser empleable, y mucho más para conseguir un buen empleo.

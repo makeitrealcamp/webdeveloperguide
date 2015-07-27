@@ -3,5 +3,3 @@
 Al ser un campo relativamente nuevo, el desarrollo Web está evolucionando constantemente. La característica más importante de un Desarrollador Web es ser capaz de aprender nuevas tecnologías rápidamente.
 
 Por otro lado, es importante entender que la programación es una herramienta para resolver problemas. Cada problema es diferente de los demás, cada problema requiere su propio aprendizaje y tiene su propia dificultad. En general, si quieres convertirte en Desarrollador Web te debe gustar -o debes desarrollar el gusto por- enfrentarte a nuevos retos y desafíos.
-
-A diferencia de lo que muchos creen no necesitas ser bueno en matemáticas ni tener un cerebro especial. Necesitas ser perseverante, optimista y determinado(a).
