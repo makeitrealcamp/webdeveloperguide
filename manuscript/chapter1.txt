@@ -1,6 +1,6 @@
 # Introducción
 
-El desarrollo Web es uno de los campos más emocionantes de la actualidad. No existe una sola industria que no haya sido o no esté siendo transformada por Internet. Servicios como Netflix y iTunes han reemplazado a gigantes como Blockbuster y Tower Records. Amazon ha cambiado completamente la forma en que compramos. Uber y AirBnB están cambiando la forma en que nos transportamos y nos alojamos. Las empresas están migrando a sistemas en "la nube" con modelos basados en subscripción. Las agencias de viajes físicas han prácticamente desaparecido.
+El desarrollo Web es uno de los campos más emocionantes de la actualidad. No existe una sola industria que no haya sido o no esté siendo transformada por Internet. Servicios como Netflix y iTunes han reemplazado a gigantes como Blockbuster y Tower Records. Amazon ha cambiado la forma en que compramos. Uber y AirBnB están cambiando la forma en que nos transportamos y nos alojamos. Las empresas están migrando a sistemas en "la nube" con modelos basados en subscripción. Las agencias de viajes físicas han prácticamente desaparecido.
 
 Es una revolución sin precedente, pero este es solo el comienzo. Sectores como la educación, la política y la salud, entre muchos otros hasta ahora están empezando a ser transformados. En los próximos años seremos testigos de enormes cambios, cambios de los que tu puedes ser parte también.
 
@@ -8,9 +8,8 @@ Cualquier persona que pueda usar un computador se puede convertir en Desarrollad
 
 Esta guía te va a mostrar cómo convertirte en Desarrollador Web: la mentalidad que necesitas cultivar, las tecnologías que debes aprender, por dónde empezar y cómo encontrar tu primer empleo.
 
-Si tienes alguna pregunta o comentario sobre esta guía no dudes en escribirme a german.escobar@makeitreal.camp. Intentaré responderte lo antes posible.
+El contenido de esta guía es de código abierto. Cualquier persona puede proponer cambios o corregir errores en el [repositorio de Github](https://github.com/makeitrealcamp/webdeveloperguide).
 
-Un cordial saludo,
+La ilustración de la carátula es una adaptación de un diseño creado por [Freepik](http://www.freepik.com/). Encuentra ilustraciones e imágenes gratis en <http://www.freepik.com>.
 
-
-Germán Escobar
+Si tienes alguna pregunta o comentario no dudes en escribirme a german.escobar@makeitreal.camp. Intentaré responderte lo antes posible.

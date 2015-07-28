@@ -2,11 +2,11 @@
 
 Para empezar, te debe gustar la tecnología. Debes manejar bien un computador y conocer sus partes básicas (procesador, memoria RAM, disco duro, etc). Debes entender a grandes rasgos qué es un dominio, una IP, un hosting, un sistema operativo y una base de datos, entre otros conceptos relacionados.
 
-Necesitas entender algo de Inglés. Puede ser muy básico, pero entre mejor tu Inglés, mejores oportunidades vas a encontrar.
+Necesitas entender algo de Inglés, lo básico. Sin embargo, ten en cuenta que entre mejor tu Inglés, mejores oportunidades puedes encontrar.
 
-Hagamos un recorrido muy rápido por las tecnologías que debes aprender. No te preocupes si no son muy claras, después profundizaremos en cada una de ellas.
+Hagamos un recorrido muy rápido por las tecnologías que debes aprender. No te preocupes si no entiendes de qué estamos hablando, eventualmente lo harás.
 
-Lo mínimo que debes aprender es HTML y CSS, que son los lenguajes con los que se crean las páginas Web. Para escribir el código necesitas utilizar un editor de texto. Te recomendamos descargar uno diseñado para programadores como Sublime Text en vez del que viene por defecto con tu sistema operativo.
+Lo mínimo que debes aprender es HTML y CSS, que son los lenguajes con los que se crean las páginas Web. También necesitas un editor de texto. Te recomendamos descargar uno diseñado para programadores como [Sublime Text](http://www.sublimetext.com/) en vez del que viene por defecto con tu sistema operativo.
 
 El siguiente paso es aprender un lenguaje de programación. Algunas personas recomiendan empezar con JavaScript. Nuestra recomendación es empezar con Ruby o Python. Y después JavaScript para que puedas comparar la sintaxis (las reglas del lenguaje). JavaScript es muy importante porque es el único lenguaje de programación que entienden los navegadores, pero puede ser muy complicado como primer lenguaje.
 
@@ -43,7 +43,7 @@ Si quieres empezar a aprender HTML, CSS y Bootstrap te recomendamos los siguient
 
 Aprender un lenguaje de programación no es como aprender HTML y CSS. Esta es la parte en que más personas se frustran porque lo más difícil no es aprender la sintaxis (las reglas) del lenguaje, lo difícil es aprender la lógica del programador, es decir, cómo usar el lenguaje para solucionar problemas.
 
-Si este es tu primer acercamiento con la programación te recomendamos los siguientes recursos que, aunque están diseñados para niños, te van a desarrollar la lógica de programación:
+Si este es tu primer acercamiento con la programación te recomendamos los siguientes recursos que están diseñados para niños pero te van a ayudar a desarrollar la lógica del programador:
 
 * <http://code.org/>
 * <https://scratch.mit.edu/>
@@ -54,7 +54,7 @@ Veamos ahora algunos lenguajes con sus fortalezas y debilidades.
 
 La ventaja de JavaScript es que está en todas partes. JavaScript es el único lenguaje de programación que entienden actualmente los navegadores, así que muchas veces no hay opción. También lo han adaptado para el back-end con una plataforma llamada Node.js que funciona muy bien para cierto tipo de aplicaciones (chats, streaming de video, etc.). Y aunque es posible crear aplicaciones Web con Node.js, no es muy recomendable.
 
-La desventaja de JavaScript es que no es muy buen lenguaje, la sintaxis es compleja, y en general, es un lenguaje complicado. Hoy en día están intentando arreglarlo pero el problema es que deben seguir soportando todas las características antiguas del lenguaje o de lo contrario muchos sitios dejarían de funcionar.
+La desventaja de JavaScript es que no es un buen lenguaje, la sintaxis es compleja, y en general, es un lenguaje complicado. Hoy en día están intentando arreglarlo pero el problema es que deben seguir soportando todas las características antiguas del lenguaje o de lo contrario muchos sitios dejarían de funcionar.
 
 Para empezar con JavaScript te recomendamos los siguientes recursos:
 
@@ -67,13 +67,12 @@ La sintaxis de estos dos lenguajes es muy parecida. Es clara y muy amigable para
 
 Ruby es hoy muy popular para construir aplicaciones Web. Twitter, Groupon, Shopify, Stripe y la mayoría de startups hoy en día usan Ruby. Python, por otro lado, es muy popular para realizar tareas con servidores y ahora para análisis de datos e inteligencia artificial, aunque también es posible crear aplicaciones Web con Python.
 
-La desventaja de estos lenguajes es que son relativamente lentos y en Windows no son tan fáciles de configurar como en Linux y Mac (que generalmente ya vienen instalados).
+La desventaja de estos lenguajes es que son relativamente lentos y en Windows no son tan fáciles de configurar como en Linux y Mac (que muchas veces ya vienen instalados).
 
 Para empezar con Ruby te recomendamos los siguientes recursos:
 
 * <https://pine.fm/LearnToProgram/>
 * <https://www.codecademy.com/tracks/ruby>
-* <http://blog.makeitreal.camp/2015/02/23/programacion-orientada-por-objetos-ruby/>
 
 Para empezar con Python te recomendamos los siguientes recursos:
 
@@ -136,7 +135,7 @@ Para aprender más de Git te recomendamos los siguientes recursos:
 
 Cada vez que entras a algún sitio Web (p.e. Google o Facebook), tu navegador está intercambiando mensajes según unas reglas establecidas por HTTP (Hyper Text Transfer Protocol).
 
-Muchas personas prefieren aprender primero un framework Web antes de HTTP, pero nuestra experiencia nos dice que aprender HTTP primero es mucho más valioso porque te va a permitir adaptarte a cualquier framework Web. Además, aprender sobre el protocolo HTTP te va a preparar para entender Web API's más adelante, que es un mecanismo para conectar aplicaciones de forma automática.
+Muchas personas prefieren aprender primero un framework Web antes de HTTP, pero nuestra experiencia nos dice que aprender HTTP antes es mucho más valioso porque te va a permitir adaptarte a cualquier framework Web. Además, aprender sobre el protocolo HTTP te va a preparar para entender Web API's más adelante, que es un mecanismo para conectar aplicaciones de forma automática.
 
 ## Un framework Web
 
@@ -144,9 +143,9 @@ Para crear aplicaciones Web es recomendable usar un framework Web. Para cada len
 
 ¿Cuál aprender? La respuesta es **cualquiera** siempre y cuando sea un framework MVC. Si empezaste aprendiendo Python intenta Django. Si empezaste con JavaScript sigue con Express.js. Y así.
 
-Si no has empezado con ningún lenguaje nuestra recomendación sería escoger algo que tus amigo(a)s o en tu empresa usen (asegúrate de que les puedas preguntar todo lo que necesites sin que se enojen). 
+Si no has empezado con ningún lenguaje en particular nuestra recomendación es que escojas algo que tus amigo(a)s, o en tu empresa, usen (asegúrate de que les puedas preguntar todo lo que necesites sin que se enojen). 
 
-Si no tienes amigo(a)s desarrolladores Web y tu empresa no es de tecnología, nuestra recomendación es que empieces con Ruby y Ruby on Rails. La razón es que Ruby on Rails es amigable para principiantes pero al mismo tiempo es utilizado por importantes compañías y startups en Estados Unidos como Twitter, Groupon, Stripe, Shopify, etc. También en Latinoamérica está tomando bastante fuerza. Además, los mejores recursos para aprender están enfocados en Rails.
+Si no tienes amigo(a)s Desarrolladores Web y tu empresa no es de tecnología, nuestra recomendación es que empieces con Ruby y Ruby on Rails. La razón es que Ruby on Rails es amigable para principiantes pero al mismo tiempo es utilizado por importantes compañías y startups en Estados Unidos como Twitter, Groupon, Stripe, Shopify, etc. También en Latinoamérica está tomando bastante fuerza. Además, los mejores recursos para aprender están enfocados en Rails.
 
 Algunos argumentan que JavaScript se convertirá en el lenguaje dominante en el back-end a través de Node.js. Al fin y al cabo, JavaScript es un lenguaje obligatorio. Si quieres empezar por ahí aprende Express.js o algo más arriesgado como Meteor, que lleva a JavaScript al límite para crear aplicaciones Web reutilizando código en el servidor y el navegador. Meteor aún está en su infancia pero es un proyecto muy interesante. Igual, no recomendaríamos Express.js ni Meteor para empezar, a menos de que sea lo que usan tus amigo(a)s o en la empresa en que trabajas.
 
@@ -190,7 +189,7 @@ La compañía líder en IaaS es Amazon con su servicio AWS (Amazon Web Services)
 
 Pero desplegar una aplicación Web sobre cualquier IaaS es engorroso. Necesitas solicitar un servidor[^n2], seleccionar las características y el sistema operativo, esperar a que inicie e ingresar remotamente para instalar la aplicación y sus dependencias (lenguaje de programación, base de datos, etc.). Es por eso que ahora existen los PaaS (Platform as a Service).
 
-Los PaaS son ideales para principiantes porque no necesitas ingresar a la máquina a instalar tu aplicación. El PaaS se encarga de eso. Ejemplos de PaaS incluyen Heroku, Google App Engine y Microsoft Azure, entre otros. La forma de desplegar tu aplicación varia entre cada PaaS, pero en la mayoría puedes hacerlo directamente con Git ejecutando un simple comando. La desventaja de los PaaS es que son más costosos y no tienes control sobre la infraestructura, aunque muchas veces eso es precisamente lo que estás buscando.
+Los PaaS son ideales para principiantes porque no necesitas ingresar a la máquina a instalar tu aplicación. El PaaS se encarga de eso. Ejemplos de PaaS incluyen Heroku, Google App Engine y Microsoft Azure, entre otros. La forma de desplegar tu aplicación varía entre cada PaaS, pero en la mayoría puedes hacerlo directamente con Git ejecutando un simple comando. La desventaja de los PaaS es que son más costosos y no tienes control sobre la infraestructura, aunque muchas veces eso es precisamente lo que estás buscando.
 
 
 
